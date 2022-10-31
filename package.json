@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-task",
+  "version": "1.0.0",
+  "description": "NodeJS practical task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TokhirovaMunira/NodeJS-task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TokhirovaMunira/NodeJS-task/issues"
+  },
+  "homepage": "https://github.com/TokhirovaMunira/NodeJS-task#readme",
+  "devDependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
